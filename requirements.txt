@@ -1,0 +1,14 @@
+# Core for notebooks
+jupyterlab
+
+# Kaggle integration (for downloading datasets via API)
+kaggle
+
+# Core ML & data stack
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tabulate
+tensorflow
