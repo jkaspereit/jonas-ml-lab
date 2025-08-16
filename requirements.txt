@@ -1,5 +1,6 @@
 # Core for notebooks
 jupyterlab
+ipywidgets
 
 # Kaggle integration (for downloading datasets via API)
 kaggle

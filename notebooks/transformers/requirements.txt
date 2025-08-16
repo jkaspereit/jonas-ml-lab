@@ -1,6 +1,8 @@
 tensorflow
 transformers
 sentencepiece
-torch
-torchtext
+torch==0.18.0
+torchtext==2.3.1
 numpy
+nltk
+spacy
