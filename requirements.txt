@@ -13,3 +13,5 @@ matplotlib
 seaborn
 tabulate
 tensorflow
+torch
+torchtext
